@@ -35,8 +35,8 @@ Please cite our paper if you use this code in your own work:
   author={Liu, Zhaolu and Clarke, Jonathan and Rohenkolh, Bertha and Barahona, Mauricio},
   publisher = {arXiv},
   year = {2024},
-  doi = {123123123123},
-  url = {https://arxiv.org/abs/}
+  doi = {10.48550/ARXIV.2406.03139},
+  url = {https://arxiv.org/abs/2406.03139}
 }
 ```
 
