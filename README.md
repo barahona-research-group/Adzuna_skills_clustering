@@ -22,7 +22,7 @@ This repository contains two main files:
 
 ### Excel Spreadsheet
 
-- **File Name**: `clusterings.xlsx`
+- **File Name**: `optimal_clusterings_fulldata.xlsx`
 - **Description**: This spreadsheet contains two sheets that consist of the clustering of the skills into 7 clusters and 21 clusters.
 - **Columns**: `Lightcast_skills` contains the unique skills in the job adverts. `Cluster` contains the clusters of the skills.
 
