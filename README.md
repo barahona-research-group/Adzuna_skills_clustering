@@ -30,13 +30,15 @@ This repository contains two main files:
 
 Please cite our paper if you use this code in your own work:
 ```
-@article{liu2024patterns,
+@article{liu2025patterns,
   title={Patterns of co-occurrent skills in UK job adverts},
-  author={Liu, Zhaolu and Clarke, Jonathan and Rohenkolh, Bertha and Barahona, Mauricio},
-  publisher = {arXiv},
-  year = {2024},
-  doi = {10.48550/ARXIV.2406.03139},
-  url = {https://arxiv.org/abs/2406.03139}
+  author={Liu, Zhaolu and Clarke, Jonathan M and Rohenkohl, Bertha and Barahona, Mauricio},
+  journal={PLOS Complex Systems},
+  volume={2},
+  number={2},
+  pages={e0000028},
+  year={2025},
+  publisher={Public Library of Science San Francisco, CA USA}
 }
 ```
 
